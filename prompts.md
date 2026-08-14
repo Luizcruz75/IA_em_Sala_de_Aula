@@ -30,3 +30,14 @@ Para cada perfil, entregue: objetivos ajustados, instruções diferenciadas, rec
 ## 5) Copilot no PowerPoint — Apresentação
 
 Leia o plano de aula anexado e gere uma apresentação .pptx para o tema "Frações e Representações Visuais" (Matemática, 6º ano).
+## 6) ChatGPT — README.md do repositório (+ reflexão pronta)
+
+Gere um README.md para o repositório Projeto-Plano-Aula-IA (desafio em IA aplicada à educação), contendo:
+
+- **Título do projeto e descrição do desafio** (sem mencionar módulos),
+- **Resumo do plano** (contexto, objetivos, metodologia, avaliação),
+- **Ferramentas de IA utilizadas** (ChatGPT e Copilot, Word/PowerPoint) e onde entram,
+- **Personalização para 2 perfis** (resumo),
+- **Internacionalização** (idioma, nível CEFR e como usar),
+- **Links** para `Plano_de_Aula_IA.pdf|.docx`, `Apresentacao_Aula_IA.pptx` e `Reflexao_IA.docx|.pdf`,
+- **Checklist de envio e créditos.** Ao final do README, gere também uma reflexão crítica (400–600 palavras) sobre o uso de IA neste projeto (ferramentas, ética/privacidade, ganhos de tempo, personalização, lições aprendidas). Marque trechos gerados por IA com [Assistido por IA].
