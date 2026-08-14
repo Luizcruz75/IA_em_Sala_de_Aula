@@ -26,3 +26,7 @@ Para a mesma aula "Frações e Representações Visuais", 6º ano, 50 min, 32 al
 - **Perfil B:** estudante com alto interesse/avançado (desafios de extensão, problemas contextualizados, conexão com frações equivalentes e simplificação).
 
 Para cada perfil, entregue: objetivos ajustados, instruções diferenciadas, recursos, avaliação adaptada, evidências de aprendizagem e observações de tempo/carga. Marque itens propostos pela IA com [Assistido por IA].
+
+## 5) Copilot no PowerPoint — Apresentação
+
+Leia o plano de aula anexado e gere uma apresentação .pptx para o tema "Frações e Representações Visuais" (Matemática, 6º ano).
