@@ -17,3 +17,12 @@ Crie materiais complementares para "Frações e Representações Visuais" (Matem
 - **1 atividade prática em grupo** (20–30 min), com objetivo, passos, materiais simples (papel quadriculado, canetinhas) e critérios de sucesso.
 
 Em cada item criado por você, inclua [Assistido por IA] e, quando pertinente, um alerta ético/autoral (ex.: evitar uso de imagens com licença restrita).
+
+## 4) ChatGPT — Adaptação para 2 perfis de alunos (personalização)
+
+Para a mesma aula "Frações e Representações Visuais", 6º ano, 50 min, 32 alunos, proponha adaptações concretas para dois perfis:
+
+- **Perfil A:** estudante com dificuldades de leitura (linguagem simples, instruções passo a passo, apoio visual extra, tempo adicional).
+- **Perfil B:** estudante com alto interesse/avançado (desafios de extensão, problemas contextualizados, conexão com frações equivalentes e simplificação).
+
+Para cada perfil, entregue: objetivos ajustados, instruções diferenciadas, recursos, avaliação adaptada, evidências de aprendizagem e observações de tempo/carga. Marque itens propostos pela IA com [Assistido por IA].
